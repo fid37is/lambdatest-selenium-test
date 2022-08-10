@@ -1,2 +1,2 @@
 # lambdatest-selenium-test
-Running your automation test using the robust features of the lambdatest platform
+Running my test automation  using the robust features of the lambdatest platform
